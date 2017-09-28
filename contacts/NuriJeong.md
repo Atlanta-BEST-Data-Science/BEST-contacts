@@ -1,8 +1,8 @@
-Name: Yunfeng Huang
+Name: Nuri Jeong
 Status: PhD  
-Degree program: Epidemiology  
+Degree program: Neuroscience
 School: Emory 
-Lab: Sun  
-Programming languages: R, python, C
-Github: https://github.com/yunfenghuang618  
+Lab: Rotations  
+Programming languages: none?
+ 
  
